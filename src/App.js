@@ -6,8 +6,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        {/* <Landing /> */}
-        <Form />
+        <Landing /> 
+        {/* <Form /> */}
       </header>
     </div>
   );
