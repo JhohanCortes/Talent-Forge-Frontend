@@ -1,0 +1,25 @@
+body{
+    background: #7C38CD;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.presentation{
+    display: flex;
+    justify-content: space-around;
+}
+
+.presentation .presentationContainer{
+    background: white;
+    border-radius: 50px;
+    width: 500px;
+    height: auto;
+}
+
+.whiteBack{
+    background: white;
+    border-radius: 45px;
+}
