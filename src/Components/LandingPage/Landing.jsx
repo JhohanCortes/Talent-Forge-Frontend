@@ -16,12 +16,14 @@ const Landing = () => {
         }
     }
 
-    const handleButtonClick = (button) => {
+    const handleButtonClick = (button) => {sasdasda
         setActiveButton(button);
     }
 
     return (
         <div className='landing'> 
+
+            <h2>Esto son pruebas unicamente</h2>
             <div className="header">
                 <img src={logo1} alt="" />
                 <div className="buttons">
